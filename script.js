@@ -3,7 +3,7 @@ const off = document.getElementById('off')
 const lamp = document.getElementById('img')
 
 function lampOn () {
-    lamp.src = 'imagens/acessa.png'
+    lamp.src = 'imagens/acesa.png'
 }
 
 function lampOff () {
